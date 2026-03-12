@@ -1,0 +1,6 @@
+# Editor directories
+.vscode/
+.idea/
+
+# Maven
+target/
