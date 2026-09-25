@@ -11,15 +11,6 @@ UI test automation project using [Selenium](https://www.selenium.dev/) with Java
 
 ```bash
 #Clone the repository:
-
-git clone https://github.com/your-username/selenium-saucedemo.git
+git clone https://github.com/joaquinpiedracueva/selenium-saucedemo.git
 cd selenium-saucedemo
-
-# Install dependencies
-
-mvn install
-
-# Running tests
-
-mvn test
 ```
